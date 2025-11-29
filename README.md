@@ -51,7 +51,7 @@ ChristTalk combines modern chat technologies with a Christian community focus:
 ## 🌐 Community & Contact
 
 Join the official **ChristTalk Discord Server**:  
-👉 https://discord.gg/t8xggVuN
+👉 https://discord.gg/5GseD8aS
 
 Everyone is welcome to share ideas, discuss features, and collaborate.
 
