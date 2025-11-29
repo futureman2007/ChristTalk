@@ -111,6 +111,22 @@ For source control and collaborating with contributors.
 Download:  
 ➡️ https://git-scm.com/downloads
 
+### VS Code Extensions
+
+The following VS Code extensions are recommended for working on this project:
+
+- **Kotlin (fwcd.kotlin)**  
+  - Marketplace: https://marketplace.visualstudio.com/items?itemName=fwcd.kotlin  
+  - Version (tested): `0.2.36`  
+  - Published: 7 years ago  
+  - Last released: ~11 months ago  
+
+- **Gradle for Java (vscjava.vscode-gradle)**  
+  - Marketplace: https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-gradle  
+  - Version (tested): `3.17.1`  
+  - Published: 6 years ago  
+  - Last released: ~2 weeks ago  
+
 ---
 
 ## 📄 License
