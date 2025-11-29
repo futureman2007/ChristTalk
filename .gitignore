@@ -1,0 +1,44 @@
+# === Gradle ===
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Gradle build output (optional, falls du zusätzliche Ordner hast)
+out/
+
+# === Kotlin / Java ===
+*.class
+*.jar
+*.war
+*.ear
+
+# === IDE / Editor ===
+
+# IntelliJ / Android Studio (falls du später damit arbeitest)
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# VS Code
+.vscode/
+
+# === Logs & temp ===
+*.log
+*.tmp
+*.swp
+*.swo
+
+# === OS-spezifische Dateien ===
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# === Misc ===
+*.bak
