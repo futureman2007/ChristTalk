@@ -70,6 +70,33 @@ Recommended ways to collaborate:
 - Share suggestions for architecture, UI, or security
 
 ---
+# 🧰 Requirements
+
+These tools are required or recommended for development.
+
+## ⚙️ Development Tools
+
+### **Java SDK 17**  
+Recommended LTS version for Kotlin/Gradle and Android compatibility.  
+Download:  
+➡️ https://adoptium.net/de/temurin/releases/?version=17
+
+### **Kotlin**  
+Installed automatically via Gradle or manually as CLI tools.  
+Download (official site):  
+➡️ https://kotlinlang.org/docs/command-line.html
+
+### **Visual Studio Code (VS Code)**  
+Recommended editor for Kotlin JVM development.  
+Download:  
+➡️ https://code.visualstudio.com/
+
+### **Git**  
+For source control and collaborating with contributors.  
+Download:  
+➡️ https://git-scm.com/downloads
+
+---
 
 ## 📄 License
 
