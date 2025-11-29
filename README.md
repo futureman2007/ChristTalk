@@ -86,6 +86,21 @@ Installed automatically via Gradle or manually as CLI tools.
 Download (official site):  
 ➡️ https://kotlinlang.org/docs/command-line.html
 
+### **Gradle**  
+Gradle is the build system used for this project.  
+It is responsible for:  
+- compiling Kotlin code  
+- running tests  
+- managing dependencies (libraries)  
+- packaging & running the application  
+
+You do **not** need to install Gradle manually —  
+the project uses the included **Gradle Wrapper (`gradlew`)**, which automatically downloads the correct Gradle version.
+
+Gradle requires a compatible Java version.  
+For this project, use **Java SDK 17**:  
+➡️ https://adoptium.net/de/temurin/releases/?version=1
+
 ### **Visual Studio Code (VS Code)**  
 Recommended editor for Kotlin JVM development.  
 Download:  
